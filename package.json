@@ -1,0 +1,21 @@
+{
+  "name": "huburn",
+  "version": "0.0.1",
+  "main": "lib/huburn.coffee",
+  "description": "tells you when the man burns",
+  "keywords": ["hubot", "hubot-scripts", "burningman"],
+  "author": "thedaniel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thedaniel/huburn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thedaniel/huburn/issues"
+  },
+  "homepage": "https://github.com/thedaniel/huburn",
+  "dependencies": {
+    "cheerio": "0.17.0",
+    "request": "2.44.0"
+  }
+}
