@@ -11,4 +11,4 @@ module.exports = (robot) ->
     millis = burnDate - Date.now()
     days = Math.floor(millis/(1000*60*60*24))
 
-    msg.send "The man burns in #{days} days, on #{burnText}"
+    msg.send "The man burns in #{days} days, on #{burnDate.toDateString()}"
