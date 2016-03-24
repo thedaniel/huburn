@@ -1,9 +1,13 @@
 {
   "name": "huburn",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "lib/huburn.coffee",
   "description": "tells you when the man burns",
-  "keywords": ["hubot", "hubot-scripts", "burningman"],
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "burningman"
+  ],
   "author": "thedaniel",
   "license": "MIT",
   "repository": {
